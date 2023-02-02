@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/progress-barnpm/static/css/main.b4917e8f.css",
+    "main.js": "/progress-barnpm/static/js/main.33d29f50.js",
+    "index.html": "/progress-barnpm/index.html",
+    "main.b4917e8f.css.map": "/progress-barnpm/static/css/main.b4917e8f.css.map",
+    "main.33d29f50.js.map": "/progress-barnpm/static/js/main.33d29f50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4917e8f.css",
+    "static/js/main.33d29f50.js"
+  ]
+}
