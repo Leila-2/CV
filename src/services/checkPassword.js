@@ -12,13 +12,13 @@ export const checkPassword = (password) => {
             color: "#e9ecef"
         }
     }
-    else if (password.length >= 8 && isPasswordEasy(password)) {
+    else if (isPasswordEasy(password)) {
         return {
             progress: 33,
             color: '#f44336'
         }
     }
-    else if (password.length >= 8 && isPasswordMedium(password)) {
+    else if (isPasswordMedium(password)) {
         return {
             progress: 70,
             color: '#ffa726'
